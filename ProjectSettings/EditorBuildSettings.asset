@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/@LSWTest/Scenes/MainScene.unity
+    guid: af8941c93cf27e040bcabfa7df1d3261
   m_configObjects: {}
